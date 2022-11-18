@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**lolonetom/lolonetom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Acerca de mi
+¡¡ Hola soy Edoardo Maciel. !!
 
-Here are some ideas to get you started:
+Estudié Ingenieria en Sistemas Computacionales en la Universidad Tecnologica de México, me he dedicado a Administrar, Diseñar y controlar tres de las ramas más demandadas en el ambito profesional que son (Redes Informaticas, Administrador de servidores y Soporte Informatica) esto en los ultimos 20 años.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Decidí darle un giro para aprender programación y pues actualmente lo hago en CoderHouse cursando la carrera de FullStack Developer.
+
+
+
+
+# Habilidades
+### Codigo
+- HTML 
+- CSS 
+- SASS
+- JavaScript
+
+###  Herramientas y/o Freameworks
+- React
+- Node
+- VSCode
+- Git
